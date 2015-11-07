@@ -6,7 +6,7 @@
    * is it a very specific goal? or a general state? 
   
 * Figure out what's needed to get to that goal
-   * mozilize lots of people? 
+   * mozilize (mobilize, actually) lots of people? 
    * access to decision-makers
    * education, awareness
   
