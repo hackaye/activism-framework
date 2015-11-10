@@ -1,18 +1,20 @@
 **People** 
 * elected officials
+* stakeholders
 * advocates
-* those impacted
+* impacted community
+* issue champions
 * opponents
 * candidates
 * students
 * community leaders
-* digital supporters
+* online influencers / digital supporters
+* targets
 * social media followers
 * members
 * business leaders
 * academics
 * government agencies
 * foundations
-* lawyers
-* media
-
+* lawyers / legal
+* media / community media
