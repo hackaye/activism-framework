@@ -3,16 +3,16 @@
 A collaboratively designed framework for planning activist campaigns. _Started at MozFest 2015._
 
 Elements to think about when planning a campaign:
-* defining the issue
+* [defining the issue](issue.md)
 * goals
 * decision-making 
-* people / stakeholders
+* [people / stakeholders](people.md)
   * identifying roles (activists, partners, allies, targets, leadership)
 * advocacy
 * education
 * legitimacy
 * scaleability
-* organisation
+* [organisation](Organization.md)
 * timeline
 * experiences / rationale
 * resources
