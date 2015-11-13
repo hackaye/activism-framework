@@ -5,7 +5,7 @@ A collaboratively designed framework for planning activist campaigns. _Started a
 Elements to think about when planning a campaign:
 * [defining the issue](issue.md)
 * goals
-* decision-making 
+* [decision-making](decision-making.md)
 * [people / stakeholders](people.md)
   * identifying roles (activists, partners, allies, targets, leadership)
 * advocacy
