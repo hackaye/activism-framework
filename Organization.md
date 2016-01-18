@@ -32,7 +32,7 @@
 
 * List the potential tactics 
 
-* Test, iterate, develp a feedback look re effectiveness of the tactics
+* Test, iterate, develop a feedback loop re effectiveness of the tactics
 
 
 

@@ -12,7 +12,7 @@ Elements to think about when planning a campaign:
 * education
 * legitimacy
 * scaleability
-* [organisation](Organization.md)
+* [organization](Organization.md)
 * timeline
 * experiences / rationale
 * resources
