@@ -1,6 +1,8 @@
 # Activism Framework
 
-A collaboratively designed framework for planning activist campaigns. _Started at MozFest 2015._
+A collaboratively developed framework for planning activist campaigns, started at MozFest 2015. This project aims to provide a shared resource for anyone approaching the task of planning a new activist campaign. 
+
+__Share your experiences and views of campaigning by opening a pull request or creating an issue on this repository - all contributions welcome!__
 
 Elements to think about when planning a campaign:
 * [defining the issue](issue.md)
