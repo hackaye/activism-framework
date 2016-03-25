@@ -6,12 +6,12 @@ __Share your experiences and views of campaigning by opening a pull request or c
 
 Elements to think about when planning a campaign:
 * [defining the issue](issue.md)
-* goals
+* [goals](Goals.md)
 * [decision-making](decision-making.md)
 * [people / stakeholders](people.md)
   * identifying roles (activists, partners, allies, targets, leadership)
 * advocacy
-* education
+* [education](Education.md)
 * legitimacy
 * scaleability
 * [organization](Organization.md)
@@ -23,7 +23,7 @@ Elements to think about when planning a campaign:
 * outcomes
 * tactics
   * media
-    * identifying social media platforms
+    * [identifying social media platforms](SOCIALMEDIAPLATFORMS.MD)
   * offline activities
   * identifying audiences
   * call to action
