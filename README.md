@@ -20,6 +20,7 @@ Elements to think about when planning a campaign:
 * resources
   * does a framework already exist?
   * good practice - what's worked already?
+    * [burnout](burnout.md)
 * outcomes
 * tactics
   * media
